@@ -1,1 +1,45 @@
-
+{
+    "people": [
+        {
+            "id": 1,
+            "image_url": "https://i.postimg.cc/9QrPRdgF/c12-c1-xola-bangaza-2-720.jpg",
+            "name": "Xola Bangaza",
+            "desc": "Abdoel is a kindhearted ,nice, well reserved guy. He is friendly and is to talk to, even if you don't know him, He is easy to approach and he is a good listener and also he is a very smart guy.His attitude is always great when talking to him , HE HAS NO BAD VIBES and once again he is a very nice guy"
+        },
+    
+        {
+            "id": 2,
+            "image_url": "https://i.postimg.cc/wMMP1tCK/c12-c2-amy-pieterse-2-720.jpg",
+            "name": "Amy Pieterse",
+            "desc": "I would highly recommend Abdoel to anyone in need of a talented and dedicated web developer. He has strong attention to detail and I was impressed with his ability to solve problems"
+        },
+    
+        {
+            "id": 3,
+            "image_url": "https://i.postimg.cc/0jKM5n2L/waydin-jochem-c12-c1-25apr23-2-720.jpg",
+            "name": "Waydin Jochem",
+            "desc": "Abdoel is a hard-working, charismatic individual, who constantly seeks out new information on topics he's learnt recently and is very attentiveto topics which he's in the process of learning. He extremely goal driven and, his warm and vibrant personality, makes him a great colleague to interact with in aworking environment."
+        },
+    
+        {
+            "id": 4,
+            "image_url": "https://i.postimg.cc/3RB9CKXK/c12-c-1-lyle-brown-2-720.jpg",
+            "name": "Lyle Brown",
+            "desc": "Simply put Abdoelmaaliek is an all round great guy. Excellent person to speak to. He always has a vibrant energy and is always willing to help in anyway that he can. 10/10 person, would highly recommend!"
+        },
+    
+        {
+            "id": 5,
+            "image_url": "https://i.postimg.cc/L5cCCxbD/john-bruce-noad-portfolio-photo.jpg",
+            "name": "john-bruce-noad",
+            "desc": "John-Bruce Noad Testimonial:I highly recommend Abdoelmaaliek for any web development projects. His eagerness to learn is truly impressive.His commitment to meeting deadlines and the work they put towards achieving their results is outstanding. Working with Abdoelmaaliek was a pleasure, and I have no doubt that they will thrive in their future endeavors as a professional web developer.I wholeheartedly endorse them for any web development opportunities!"
+        },
+        {
+            "id": 6,
+            "image_url": "https://i.postimg.cc/Ls7vxy7W/IMG-2409.jpg",
+            "name": "Zulaigah Benjamin",
+            "desc": "Abdoel never ceases to amaze me with the amount of knowledge he had gained over the past few months.His always helps where he can and takes pride in what he does. He makes long lessons fun"
+        }
+    
+    ]
+}
