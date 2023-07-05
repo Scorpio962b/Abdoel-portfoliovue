@@ -1,5 +1,5 @@
-{
-    "people": [
+{ 
+    "testimonial": [
         {
             "id": 1,
             "image_url": "https://i.postimg.cc/9QrPRdgF/c12-c1-xola-bangaza-2-720.jpg",
@@ -41,5 +41,50 @@
             "desc": "Abdoel never ceases to amaze me with the amount of knowledge he had gained over the past few months.His always helps where he can and takes pride in what he does. He makes long lessons fun"
         }
     
+    ],
+
+    "project":[
+        {
+            "id":1,
+            "imageUrl": "https://i.postimg.cc/tT7p1GST/JUMBO.jpg",
+            "name": "jumbotron exercise",
+            "GithubLink":"",
+            "firebaseLink": ""
+        },
+        {
+            "id":2,
+            "imageUrl": "https://i.postimg.cc/tT7p1GST/JUMBO.jpg",
+            "name": "jumbotron exercise",
+            "GithubLink":"",
+            "firebaseLink": ""
+        },
+        {
+            "id":3,
+            "imageUrl": "https://i.postimg.cc/tT7p1GST/JUMBO.jpg",
+            "name": "jumbotron exercise",
+            "GithubLink": "",
+            "firebaseLink": ""
+        },
+        {
+            "id":4,
+            "imageUrl": "https://i.postimg.cc/tT7p1GST/JUMBO.jpg",
+            "name": "jumbotron exercise",
+            "GithubLink":"",
+            "firebaseLink": ""
+        },
+        {
+            "id":5,
+            "imageUrl": "https://i.postimg.cc/tT7p1GST/JUMBO.jpg",
+            "name": "jumbotron exercise",
+            "GithubLink":"",
+            "firebaseLink": ""
+        },
+        {
+            "id":6,
+            "imageUrl": "https://i.postimg.cc/tT7p1GST/JUMBO.jpg",
+            "name": "jumbotron exercise",
+            "GithubLink":"",
+            "firebaseLink": ""
+        }
     ]
 }
