@@ -1,5 +1,5 @@
 { 
-    "testimonialsgit": [
+    "testimonial": [
         {
             "id": 1,
             "image_url": "https://i.postimg.cc/9QrPRdgF/c12-c1-xola-bangaza-2-720.jpg",
@@ -43,7 +43,7 @@
     
     ],
 
-    "projects":[
+    "project":[
         {
             "id":1,
             "imageUrl": "https://i.postimg.cc/tT7p1GST/JUMBO.jpg",
