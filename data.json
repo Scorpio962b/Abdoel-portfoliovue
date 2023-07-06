@@ -48,43 +48,98 @@
             "id":1,
             "imageUrl": "https://i.postimg.cc/tT7p1GST/JUMBO.jpg",
             "name": "jumbotron exercise",
-            "GithubLink":"",
-            "firebaseLink": ""
+            "GithubLink":"https://github.com/Scorpio962b/bootstrapexercie.git",
+            "NetlifyLink": "https://resonant-kitten-9a2dde.netlify.app"
         },
         {
             "id":2,
-            "imageUrl": "https://i.postimg.cc/tT7p1GST/JUMBO.jpg",
-            "name": "jumbotron exercise",
-            "GithubLink":"",
-            "firebaseLink": ""
+            "imageUrl": "https://i.postimg.cc/dQBpbx4N/kirito.jpg",
+            "name": "Caracter website",
+            "GithubLink":"ttps://github.com/Scorpio962b/caracter-website.git",
+            "NetlifyLink": "https://keen-kringle-23b520.netlify.app"
         },
         {
             "id":3,
-            "imageUrl": "https://i.postimg.cc/tT7p1GST/JUMBO.jpg",
-            "name": "jumbotron exercise",
-            "GithubLink": "",
-            "firebaseLink": ""
+            "imageUrl": "https://i.postimg.cc/PJwLww3P/student.jpg",
+            "name": "List of students in class",
+            "GithubLink": "https://github.com/Scorpio962b/studentclasses.git",
+            "NetlifyLink": "https://superlative-custard-f6dd61.netlify.app"
         },
         {
             "id":4,
-            "imageUrl": "https://i.postimg.cc/tT7p1GST/JUMBO.jpg",
-            "name": "jumbotron exercise",
-            "GithubLink":"",
-            "firebaseLink": ""
+            "imageUrl": "https://i.postimg.cc/kGV54KqB/jseomp.jpg",
+            "name": "javascript project",
+            "GithubLink":"https://github.com/Scorpio962b/eomp-ams.git",
+            "NetlifyLink": "https://glistening-dasik-404194.netlify.app"
         },
         {
             "id":5,
-            "imageUrl": "https://i.postimg.cc/tT7p1GST/JUMBO.jpg",
-            "name": "jumbotron exercise",
-            "GithubLink":"",
-            "firebaseLink": ""
+            "imageUrl": "https://i.postimg.cc/XJXbnWk8/converter.jpg",
+            "name": "Converter",
+            "GithubLink":"https://github.com/Scorpio962b/temp-converter.git",
+            "NetlifyLink": "https://singular-tiramisu-91f894.netlify.app"
         },
         {
             "id":6,
-            "imageUrl": "https://i.postimg.cc/tT7p1GST/JUMBO.jpg",
-            "name": "jumbotron exercise",
-            "GithubLink":"",
-            "firebaseLink": ""
+            "imageUrl": "https://i.postimg.cc/fTV62Zw7/bmi-calculator.jpg",
+            "name": "Bmi-calculator",
+            "GithubLink":"https://github.com/Scorpio962b/bmi.git",
+            "NetlifyLink": "https://starlit-douhua-2df918.netlify.app"
+        }
+    ],    
+    "Skills":[
+        {
+            "id":1,
+            "imageUrl": "https://i.postimg.cc/k4qmJrwp/html.png",
+            "name": "Html"
+            
+        },
+        {
+            "id":2,
+            "imageUrl": "https://i.postimg.cc/bJ9qkYsP/CSS3-logo-and-wordmark-svg.png",
+            "name": "Css"
+           
+        },
+        {
+            "id":3,
+            "imageUrl": "https://i.postimg.cc/YCP0CSmy/bootstrap-logo.png",
+            "name": "Bootstrap"
+        
+        },
+        {
+            "id":4,
+            "imageUrl": "https://i.postimg.cc/6pp4QSbT/Java-Script-Logo.png",
+            "name": "Javascript"
+          
+        },
+        {
+            "id":5,
+            "imageUrl": "https://i.postimg.cc/15ZpyvZN/vue.png",
+            "name": "Vuejs"
+        }
+      
+    ],    
+    "education":[
+        {
+            "id":1,
+            "name": "The Hague Primary",
+            "year": "2007-2013"
+            
+            
+        },
+        {
+            "id":2,
+            "name": "Rosendaal High School",
+            "year": "2014-2018"
+            
+           
+        },
+        {
+            "id":3,
+            "name": "Life choices academy",
+            "year": "2023"
         }
     ]
 }
+
+
