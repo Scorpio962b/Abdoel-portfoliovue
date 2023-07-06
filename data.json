@@ -87,7 +87,7 @@
             "NetlifyLink": "https://starlit-douhua-2df918.netlify.app"
         }
     ],    
-    "Skills":[
+    "skill":[
         {
             "id":1,
             "imageUrl": "https://i.postimg.cc/k4qmJrwp/html.png",
