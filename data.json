@@ -90,31 +90,31 @@
     "skill":[
         {
             "id":1,
-            "imageUrl": "https://i.postimg.cc/k4qmJrwp/html.png",
+            "imageUrl": "https://img.icons8.com/color/240/html-5--v1.png",
             "name": "Html"
             
         },
         {
             "id":2,
-            "imageUrl": "https://i.postimg.cc/bJ9qkYsP/CSS3-logo-and-wordmark-svg.png",
+            "imageUrl": "https://icons8.com/icon/7gdY5qNXaKC0/css3",
             "name": "Css"
            
         },
         {
             "id":3,
-            "imageUrl": "https://i.postimg.cc/YCP0CSmy/bootstrap-logo.png",
+            "imageUrl": "https://img.icons8.com/color/240/bootstrap.png",
             "name": "Bootstrap"
         
         },
         {
             "id":4,
-            "imageUrl": "https://i.postimg.cc/6pp4QSbT/Java-Script-Logo.png",
+            "imageUrl": "https://img.icons8.com/color/240/javascript--v1.png",
             "name": "Javascript"
           
         },
         {
             "id":5,
-            "imageUrl": "https://i.postimg.cc/15ZpyvZN/vue.png",
+            "imageUrl": "https://img.icons8.com/color/240/vue-js.png",
             "name": "Vuejs"
         }
       
