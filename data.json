@@ -18,7 +18,7 @@
             "id": 3,
             "image_url": "https://i.postimg.cc/0jKM5n2L/waydin-jochem-c12-c1-25apr23-2-720.jpg",
             "name": "Waydin Jochem",
-            "desc": "Abdoel is a hard-working, charismatic individual, who constantly seeks out new information on topics he's learnt recently and is very attentiveto topics which he's in the process of learning. He extremely goal driven and, his warm and vibrant personality, makes him a great colleague to interact with in aworking environment."
+            "desc": "Abdoel is a hard-working, charismatic individual, who constantly seeks out new information on topics he's learnt recently and is very attentive to topics which he's in the process of learning. He extremely goal driven and, his warm and vibrant personality, makes him a great colleague to interact with in a working environment."
         },
     
         {
@@ -36,8 +36,8 @@
         },
         {
             "id": 6,
-            "image_url": "https://i.postimg.cc/Ls7vxy7W/IMG-2409.jpg",
-            "name": "Zulaigah Benjamin",
+            "image_url": "https://i.postimg.cc/Xvvhsf77/photo1.jpg",
+            "name": "Amber-Kay Africa",
             "desc": "Abdoel never ceases to amaze me with the amount of knowledge he had gained over the past few months.His always helps where he can and takes pride in what he does. He makes long lessons fun"
         }
     
@@ -55,7 +55,7 @@
             "id":2,
             "imageUrl": "https://i.postimg.cc/dQBpbx4N/kirito.jpg",
             "name": "Caracter website",
-            "GithubLink":"ttps://github.com/Scorpio962b/caracter-website.git",
+            "GithubLink":"https://github.com/Scorpio962b/caracter-website.git",
             "NetlifyLink": "https://keen-kringle-23b520.netlify.app"
         },
         {
@@ -116,6 +116,16 @@
             "id":5,
             "imageUrl": "https://img.icons8.com/color/240/vue-js.png",
             "name": "Vuejs"
+        }
+        {
+            "id":6,
+            "imageUrl": "",
+            "name": "Mysql"
+        }
+        {
+            "id":7,
+            "imageUrl": "",
+            "name": "NodeJS"
         }
       
     ],    
